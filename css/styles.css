@@ -1,0 +1,20 @@
+.intro {
+  background-color: lightgray;
+}
+
+.skills {
+  text-align: center;
+  background-color: lightyellow;
+}
+
+.work {
+  background-color: lightgray;
+}
+
+.education {
+  background-color: lightblue;
+}
+
+.ruby {
+  font-weight: 700;
+}
